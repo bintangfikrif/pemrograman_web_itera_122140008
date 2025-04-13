@@ -5,7 +5,9 @@ NIM: 122140008
 Repository berisi tugas praktikum **Pemrograman Web**, mencakup HTML, CSS, JavaScript, dan teknologi web lainnya. Setiap tugas disusun dalam folder berdasarkan pertemuan sebagai dokumentasi pembelajaran dan praktik.
 
 ## Struktur Repository
+```sh
 📂 Bintangfikrifauzan_122140008_pertemuan1 - JavaScript Dasar <br>
 📂 Bintangfikrifauzan_122140008_pertemuan2 - Next Gen JavaScript
 ├── latihan
 └── tugas
+```
