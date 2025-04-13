@@ -6,7 +6,7 @@ Repository berisi tugas praktikum **Pemrograman Web**, mencakup HTML, CSS, JavaS
 
 ## Struktur Repository
 ```sh
-📂 Bintangfikrifauzan_122140008_pertemuan1 - JavaScript Dasar <br>
+📂 Bintangfikrifauzan_122140008_pertemuan1 - JavaScript Dasar
 📂 Bintangfikrifauzan_122140008_pertemuan2 - Next Gen JavaScript
 ├── latihan
 └── tugas
