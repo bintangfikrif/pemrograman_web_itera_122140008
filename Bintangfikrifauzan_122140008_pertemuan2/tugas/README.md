@@ -1,7 +1,7 @@
 # Tracker Keuangan Mahasiswa
 
 ## Deskripsi
-Student Financial Tracker adalah aplikasi web berbahasa Indonesia yang dirancang untuk membantu mahasiswa 
+Student Financial Tracker adalah aplikasi web yang dirancang untuk membantu mahasiswa 
 mengelola keuangan pribadi mereka dengan mudah. Aplikasi ini memungkinkan pengguna untuk mencatat pemasukan dan 
 pengeluaran, mengatur budget bulanan, serta melihat visualisasi keuangan mereka dalam bentuk grafik untuk memantau 
 kebiasaan pengeluaran
@@ -75,7 +75,7 @@ Aplikasi ini mengimplementasikan berbagai fitur ES6+ modern seperti:
    ```
 5.  *Local Storage API*. Untuk menyimpan data pengguna secara lokal.
    ```sh
-  localStorage.setItem('transactions', JSON.stringify(this.transactions));
+   localStorage.setItem('transactions', JSON.stringify(this.transactions));
    ```   
 6. *Event Binding*. Menggunakan .bind(this) untuk mempertahankan konteks dalam event handlers.
    ```sh
@@ -104,4 +104,17 @@ Aplikasi ini mengimplementasikan berbagai fitur ES6+ modern seperti:
       // ...
     }).format(amount);
     ``` 
-   
+
+## Struktur Proyek
+```sh
+// Project File Structures:
+tugas/
+│
+├── index.html                # File HTML utama
+├── css/                      # Folder untuk file CSS
+│   └── style.css             # File CSS utama
+└── js/                       # Folder untuk file JavaScript
+    ├── app.js                # File JavaScript utama
+    ├── Transaction.js        # Kelas Transaction
+    └── FinancialTracker.js   # Kelas FinancialTracker
+```
