@@ -1,51 +1,59 @@
-# Getting Started with Create React App
+# Aplikasi Manajemen Buku Pribadi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplikasi Manajemen Buku Pribadi adalah aplikasi web berbasis React yang memungkinkan pengguna untuk mencatat, mengelola, dan melacak koleksi buku yang dimiliki, sedang dibaca, atau ingin dibeli. Aplikasi ini dirancang dengan user interface yang sederhana dan intuitif, serta memanfaatkan berbagai fitur modern dari React.
 
-## Available Scripts
+## Fitur
 
-In the project directory, you can run:
+Aplikasi ini menyediakan beberapa fitur utama:
 
-### `npm start`
+### Manajemen Buku
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Menambahkan buku baru dengan judul, penulis, dan status (dimiliki, sedang dibaca, ingin dibeli)
+- Mengedit informasi buku yang sudah ada
+- Menghapus buku dari koleksi
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Pencarian dan Filter
 
-### `npm test`
+- Mencari buku berdasarkan judul atau penulis
+- Memfilter buku berdasarkan status
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Statistik Koleksi
 
-### `npm run build`
+- Melihat ringkasan koleksi buku (total buku, jumlah per status)
+- Daftar buku terbaru yang ditambahkan
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Penyimpanan Lokal
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Semua data buku disimpan di localStorage browser
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Teknologi
 
-### `npm run eject`
+Aplikasi ini dibangun menggunakan:
+- React - Library JavaScript untuk membangun user interface
+- React Router - Untuk navigasi antar halaman
+- localStorage API - Untuk menyimpan data di browser
+- Context API - Untuk manajemen state global
+- CSS - Untuk styling komponen
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Instalasi
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Untuk menginstal dan menjalankan aplikasi ini di komputer lokal, ikuti langkah-langkah berikut:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
+1. Clone repository
+```
+git clone [URL_REPOSITORY]
+cd aplikasi-manajemen-buku
+```
+2. Instalasi dependensi
+```
+npm install
+```
+3. Jalankan Aplikasi
+```
+npm start
+```
+4. Akses aplikasi
+Buka browser dan akses http://localhost:3000
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
