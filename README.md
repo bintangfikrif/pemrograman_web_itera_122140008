@@ -10,4 +10,5 @@ Repository berisi tugas praktikum **Pemrograman Web**, mencakup HTML, CSS, JavaS
 📂 Bintangfikrifauzan_122140008_pertemuan2 - Next Gen JavaScript
 ├── latihan
 └── tugas
+📂 Bintangfikrifauzan_122140008_pertemuan3 - React JS Dasar
 ```
