@@ -11,4 +11,7 @@ Repository berisi tugas praktikum **Pemrograman Web**, mencakup HTML, CSS, JavaS
 ├── latihan
 └── tugas
 📂 Bintangfikrifauzan_122140008_pertemuan3 - React JS Dasar
+📂 Bintangfikrifauzan_122140008_pertemuan4 - Python Dasar
+├── latihan
+└── tugas
 ```
