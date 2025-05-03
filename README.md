@@ -14,4 +14,7 @@ Repository berisi tugas praktikum **Pemrograman Web**, mencakup HTML, CSS, JavaS
 📂 Bintangfikrifauzan_122140008_pertemuan4 - Python Dasar
 ├── latihan
 └── tugas
+📂 Bintangfikrifauzan_122140008_pertemuan5 - Python OOP
+├── latihan
+└── tugas
 ```
