@@ -47,8 +47,8 @@
 
 ---------------
 # Hasil Test API Endpoints
-    <li><a href=\"API test/API-Test(GET).png\">API Test GET</a></li>\n
-    <li><a href=\"API test/API-Test(POST).png\">API Test POST</a></li>\n
-    <li><a href=\"API test/API-Test(PUT).png\">API Test PUT</a></li>\n
-    <li><a href=\"API test/API-Test(DELETE).png\">API Test DELETE</a></li>\n
+<li><a href=\"API test/API-Test(GET).png\">API Test GET</a></li>\n
+<li><a href=\"API test/API-Test(POST).png\">API Test POST</a></li>\n
+<li><a href=\"API test/API-Test(PUT).png\">API Test PUT</a></li>\n
+<li><a href=\"API test/API-Test(DELETE).png\">API Test DELETE</a></li>\n
     
