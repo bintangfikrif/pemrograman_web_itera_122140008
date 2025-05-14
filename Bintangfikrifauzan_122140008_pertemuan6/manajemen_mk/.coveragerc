@@ -1,0 +1,3 @@
+[run]
+source = manajemen_mk
+omit = manajemen_mk/test*
